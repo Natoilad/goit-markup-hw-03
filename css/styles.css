@@ -151,6 +151,10 @@ body {
   padding-bottom: 200px;
   text-align: center;
 }
+.container .button-active {
+  background-color: var(--brend-color);
+  color: var(--color-text-dark-theme);
+}
 .title-first {
   color: var(--color-text-dark-theme);
   font-weight: 900;
